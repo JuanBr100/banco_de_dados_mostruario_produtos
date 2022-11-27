@@ -98,6 +98,23 @@
         }
       ]
     },
+      {
+      "id": 5,
+      "categoria": "diversao",
+      "titulo": "TESTE",
+      "descricao_oferta": "TESTE.",
+      "anunciante": "TESTE",
+      "valor": 54.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/5/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/5/img2.jpg"
+        }
+      ]
+    },
     {
       "id": 5,
       "categoria": "diversao",
